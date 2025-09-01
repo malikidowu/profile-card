@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(10, 9, 9) ;
+    
+}
+.main-body{
+    background-color: rgb(36, 27, 27);
+    padding: 30px;
+    border-radius: 10px;
+    width: 400px;
+    margin: 0px auto; 
+}
+h1{
+    color: white;  
+}
+h3{ 
+    color: greenyellow;
+}
+p{
+    color: white;
+}
+img{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+ 
+}
+.image{
+    text-align: center;
+}
+.text{
+    text-align: center;
+}
+.buttons{
+    width: 100%;
+}
+button{
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    padding: 15px 16px;
+    margin: 5px 0px;
+    width: 100%;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: greenyellow;
+    color: black;
+}
